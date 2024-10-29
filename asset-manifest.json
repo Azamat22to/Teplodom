@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Teplodom/static/css/main.fa912a31.css",
+    "main.js": "/Teplodom/static/js/main.f7cc046c.js",
+    "static/media/categor5.png": "/Teplodom/static/media/categor5.54614148d61ba698b701.png",
+    "static/media/categor1.png": "/Teplodom/static/media/categor1.77ad1b0f7415931d770e.png",
+    "static/media/categor3.png": "/Teplodom/static/media/categor3.6e6ff7a077e74b5c1f6a.png",
+    "static/media/mainBack.png": "/Teplodom/static/media/mainBack.88842e64358edac696dd.png",
+    "static/media/categor4.png": "/Teplodom/static/media/categor4.f9d100cc0a8c151a072c.png",
+    "static/media/carousel3.png": "/Teplodom/static/media/carousel3.57a5e61941697297f562.png",
+    "static/media/carousel2.png": "/Teplodom/static/media/carousel2.69596f40ac523c197396.png",
+    "static/media/categor2.png": "/Teplodom/static/media/categor2.3c288b01cc6d5d542f70.png",
+    "static/media/carousel.png": "/Teplodom/static/media/carousel.a360b03e0ab65782ef52.png",
+    "static/media/brend4.png": "/Teplodom/static/media/brend4.ceaebc23f6d28a77b136.png",
+    "static/media/brend5.png": "/Teplodom/static/media/brend5.7af0571c90b66d9e91c5.png",
+    "static/media/brend1.png": "/Teplodom/static/media/brend1.5afbad75ab775402c524.png",
+    "index.html": "/Teplodom/index.html",
+    "main.fa912a31.css.map": "/Teplodom/static/css/main.fa912a31.css.map",
+    "main.f7cc046c.js.map": "/Teplodom/static/js/main.f7cc046c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa912a31.css",
+    "static/js/main.f7cc046c.js"
+  ]
+}
